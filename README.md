@@ -1,9 +1,3 @@
 - 👋 Hi, I’m @adheru
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity
-
-
-<!---
-adheru/adheru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Programming and Cybersecurity
+- 🌱 I’m currently Final year student at the National University of Jakarta, majoring in Informatics. Have a lot of experience from completing campus assignments. And attend the Cybersecurity Bootcamp training.
